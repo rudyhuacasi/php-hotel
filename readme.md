@@ -14,3 +14,9 @@ NOTA: deve essere possibile utilizzare entrambi i filtri contemporaneamente (es.
 
 ## PHP
 
+- variabile di un array multidimensionali
+- variabile per selezzionare il parcheggio
+- variabile per selezzionare i voti
+- un ciclo foreach ($hotels)
+    - filtro per il parcheggio
+    - filtro per i voti 
